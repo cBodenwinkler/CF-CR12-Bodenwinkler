@@ -1,0 +1,117 @@
+/*
+Theme Name: cr12_Bodenwinkler_traveler;
+Theme URI: https://www.codefactory.wien;
+Author: Christian Bodenwinkler;
+Description: CodeReview12 - Bodenwinkler Christian;
+Version: 1.0;
+
+
+*/
+
+/* ALL */
+page, single, index{
+    padding-bottom:250px;
+}
+body{
+    background-image: url("https://images.unsplash.com/photo-1507608616759-54f48f0af0ee?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1234&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+
+
+
+/* Front-Page */
+.carousel{
+    border:solid lightgray 10px;
+    border-radius:15px;
+}
+.sliderAction{
+    margin:auto;
+    width:80%;
+    
+}
+.sliderAction > img{
+    /* max-height:300px; */
+}
+.frontPageCard{
+    float: center;
+}
+
+
+
+
+
+/* Index Site */
+.blogSlider{
+    width:60%;
+}
+#indexHead > h2{
+    display: flex;
+    justify-content:center;
+    font-weight:700;
+}
+#cardsID{
+    color:white;
+    background-color:rgba(0, 118, 139, 0.90);
+}
+a{
+    color:lightgray ;
+    text-decoration:underline;
+}
+
+
+
+
+/* Page Site */
+.page{
+    /* background-color:lightgrey; */
+    border: solid lightgrey 1px;
+    border-radius: 50px;
+}
+form{
+    text-align:center;
+}
+textarea{
+    width:600px;
+    height:200px;
+}
+
+
+
+
+
+/* Single Site */
+#single{
+    /* background-color:lightgrey; */
+    border-radius:30px;
+    padding:2%;
+    text-align:center;
+    width:75%;
+    background-color:rgba(0, 118, 139, 0.90);
+    color:white;
+}
+label[for="comment"]{
+    display:none;
+}
+#comment{
+    width:auto;
+    max-width:300px;
+}
+
+
+/* Header */
+#logoID{
+    width:25px;
+    height:auto;
+}
+
+
+
+/* Footer */
+footer{
+    bottom:0;
+}
