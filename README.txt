@@ -1,4 +1,4 @@
-Template .html file included in theme (how first concept looked like)
+Template 'concept.html' file included in theme (how first concept looked like)
 
 Widget Placeholder in footer.php and single.php
 
