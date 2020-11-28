@@ -10,7 +10,7 @@
 
 - Menu created with Navwalker including enabled Dropdown Menu;
 
-- Widgets can be implemented on single.php or in the footer.php;
+- Widgets can be implemented on single.php or on footer.php;
 
 - Comment fields are on the bottom of the single.php files;
 ```
