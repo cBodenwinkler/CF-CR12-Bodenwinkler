@@ -2,8 +2,9 @@
 
 #### Folder - cr12_Bodenwinkler_traveler:
 ```
-- Bootstrap Theme including basic files + front-page.php, screenshot.png and my first 
-concept of the project in the concept.html file.
+- Bootstrap Theme including basic files + front-page.php, 
+	screenshot.png and my first concept of the project 
+	in the concept.html file.
 
 - front-page.php as the static landing page;
 
